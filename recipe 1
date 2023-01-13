@@ -2,7 +2,7 @@
 <html lang="en">
     <body>
         <h1>pizza recipe</h1>
-        <img src="../image.jpg" alt="pizza">
+        <img src="../odin-recipes/image.jpg" alt="pizza">
         <h4>Ingredients</h4>
         <ul>
             <li>1 (10 ounce) can refrigerated pizza crust dough</li>
@@ -19,6 +19,6 @@
             <li>Bake in the preheated oven until the crust is golden brown and cheese is melted in the center, 10 to 15 minutes. Slice and serve.</li>
         </ol>
         <h5>return</h5>
-        <a href="../index.html">Home page</a>
+        <a href="../odin-recipes/index">Home page</a>
     </body>
 </html>

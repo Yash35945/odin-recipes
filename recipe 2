@@ -2,7 +2,7 @@
 <html lang="en">
     <body>
         <h1>Chicken Tortilla Soup</h1>
-        <img src="../chicken soup.jpg" alt="chicken tortilla soup">
+        <img src="chicken soup.jpg" alt="chicken tortilla soup">
         <h4>Ingredients</h4>
         <ul>
             <li>1 tablespoon olive oil</li>
@@ -34,6 +34,6 @@
             <li>Ladle soup into individual serving bowls, and top with crushed tortilla chips, avocado slices, Monterey Jack cheese, and green onions.</li>
         </ol>
         <h5>return</h5>
-        <a href="../index.html">Home page</a>
+        <a href="index">Home page</a>
     </body>
 </html>
